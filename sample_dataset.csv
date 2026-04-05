@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Customer_Type,Product,Category,Unit_Price,Quantity,Discount,Total_Price,Region,Order_Date
+ORD1,CUS1496,B2B,Vio Wasser,Water,1.66,53,0.1,79.18,Baden-Württemberg,2023-08-23
+ORD1,CUS1496,B2B,Evian,Water,1.56,90,0.1,126.36,Baden-Württemberg,2023-08-23
+ORD1,CUS1496,B2B,Sprite,Soft Drinks,1.17,73,0.05,81.14,Baden-Württemberg,2023-08-23
+ORD1,CUS1496,B2B,Rauch Multivitamin,Juices,3.22,59,0.1,170.98,Baden-Württemberg,2023-08-23
+ORD1,CUS1496,B2B,Gerolsteiner,Water,0.87,35,0.1,27.4,Baden-Württemberg,2023-08-23
+ORD2,CUS2847,B2C,Sauvignon Blanc,Alcoholic Beverages,9.09,2,0.0,18.18,Schleswig-Holstein,2023-03-16
+ORD3,CUS1806,B2B,Tomato Juice,Juices,2.14,44,0.1,84.74,Hamburg,2022-11-20
+ORD3,CUS1806,B2B,Vittel,Water,0.43,13,0.05,5.31,Hamburg,2022-11-20
+ORD3,CUS1806,B2B,San Pellegrino,Water,1.21,92,0.1,100.19,Hamburg,2022-11-20
+ORD3,CUS1806,B2B,Evian,Water,1.38,3,0.05,3.93,Hamburg,2022-11-20
+ORD4,CUS2275,B2C,Mountain Dew,Soft Drinks,0.99,11,0.0,10.89,Bayern,2023-11-05
+ORD5,CUS7919,B2B,Hohes C Orange,Juices,1.52,8,0.05,11.55,Bayern,2023-08-05
+ORD5,CUS7919,B2B,Red Bull,Soft Drinks,2.13,16,0.05,32.38,Bayern,2023-08-05
+ORD5,CUS7919,B2B,Chardonnay,Alcoholic Beverages,6.45,3,0.05,18.38,Bayern,2023-08-05
+ORD5,CUS7919,B2B,Tanqueray,Alcoholic Beverages,33.36,43,0.15,1219.31,Bayern,2023-08-05
+ORD6,CUS533,B2B,Rotkäppchen Sekt,Alcoholic Beverages,5.89,44,0.05,246.2,Saarland,2023-02-18
+ORD6,CUS533,B2B,Mango Juice,Juices,2.5,10,0.05,23.75,Saarland,2023-02-18
+ORD6,CUS533,B2B,Apollinaris,Water,0.82,13,0.05,10.13,Saarland,2023-02-18
+ORD6,CUS533,B2B,Mountain Dew,Soft Drinks,1.87,89,0.15,141.47,Saarland,2023-02-18
+ORD6,CUS533,B2B,Riesling,Alcoholic Beverages,11.48,21,0.05,229.03,Saarland,2023-02-18
+ORD7,CUS9366,B2C,Vio Wasser,Water,1.61,13,0.0,20.93,Baden-Württemberg,2021-01-12
+ORD7,CUS9366,B2C,Rauch Multivitamin,Juices,2.31,7,0.0,16.17,Baden-Württemberg,2021-01-12
+ORD8,CUS6944,B2C,Granini Apple,Juices,1.64,2,0.0,3.28,Schleswig-Holstein,2022-12-03
+ORD8,CUS6944,B2C,Fanta,Soft Drinks,1.19,15,0.0,17.85,Schleswig-Holstein,2022-12-03
+ORD9,CUS6010,B2C,Hohes C Orange,Juices,1.8,2,0.0,3.6,Thüringen,2022-06-23
+ORD9,CUS6010,B2C,Rockstar,Soft Drinks,2.27,10,0.0,22.7,Thüringen,2022-06-23
+ORD10,CUS9472,B2B,Club Mate,Soft Drinks,2.31,33,0.05,72.42,Bayern,2023-04-09
+ORD10,CUS9472,B2B,Sprite,Soft Drinks,1.19,84,0.1,89.96,Bayern,2023-04-09
+ORD10,CUS9472,B2B,Vio Wasser,Water,1.96,79,0.1,139.36,Bayern,2023-04-09
+ORD11,CUS3565,B2B,Krombacher,Alcoholic Beverages,1.71,77,0.15,111.92,Brandenburg,2021-01-05
+ORD12,CUS2896,B2C,Erdinger Weißbier,Alcoholic Beverages,2.04,14,0.0,28.56,Nordrhein-Westfalen,2023-04-13
+ORD12,CUS2896,B2C,Granini Apple,Juices,1.69,7,0.0,11.83,Nordrhein-Westfalen,2023-04-13
+ORD12,CUS2896,B2C,Volvic Touch,Water,1.46,2,0.0,2.92,Nordrhein-Westfalen,2023-04-13
+ORD12,CUS2896,B2C,Volvic,Water,0.58,9,0.0,5.22,Nordrhein-Westfalen,2023-04-13
+ORD12,CUS2896,B2C,Fanta,Soft Drinks,1.23,11,0.0,13.53,Nordrhein-Westfalen,2023-04-13
+ORD13,CUS6839,B2C,Rotkäppchen Sekt,Alcoholic Beverages,8.54,6,0.0,51.24,Mecklenburg-Vorpommern,2023-02-06
+ORD13,CUS6839,B2C,Volvic Touch,Water,1.46,3,0.0,4.38,Mecklenburg-Vorpommern,2023-02-06
+ORD13,CUS6839,B2C,Schwip Schwap,Soft Drinks,1.27,4,0.0,5.08,Mecklenburg-Vorpommern,2023-02-06
+ORD13,CUS6839,B2C,Fritz-Kola,Soft Drinks,2.12,11,0.0,23.32,Mecklenburg-Vorpommern,2023-02-06
+ORD14,CUS1819,B2C,Club Mate,Soft Drinks,2.19,3,0.0,6.57,Sachsen-Anhalt,2022-10-16
+ORD14,CUS1819,B2C,Rotkäppchen Sekt,Alcoholic Beverages,8.29,13,0.0,107.77,Sachsen-Anhalt,2022-10-16
+ORD14,CUS1819,B2C,Tomato Juice,Juices,3.33,2,0.0,6.66,Sachsen-Anhalt,2022-10-16
+ORD14,CUS1819,B2C,Coca-Cola,Soft Drinks,1.07,3,0.0,3.21,Sachsen-Anhalt,2022-10-16
+ORD15,CUS3088,B2C,Selters,Water,0.46,9,0.0,4.14,Mecklenburg-Vorpommern,2021-10-15
+ORD15,CUS3088,B2C,Cranberry Juice,Juices,3.46,7,0.0,24.22,Mecklenburg-Vorpommern,2021-10-15
+ORD16,CUS2524,B2C,Riesling,Alcoholic Beverages,4.32,13,0.0,56.16,Nordrhein-Westfalen,2023-03-20
+ORD17,CUS9592,B2B,Cranberry Juice,Juices,2.71,36,0.15,82.93,Niedersachsen,2021-07-13
+ORD17,CUS9592,B2B,Fanta,Soft Drinks,0.94,90,0.1,76.14,Niedersachsen,2021-07-13
+ORD17,CUS9592,B2B,Rauch Multivitamin,Juices,2.91,80,0.1,209.52,Niedersachsen,2021-07-13
+ORD18,CUS4060,B2B,Mezzo Mix,Soft Drinks,1.53,92,0.1,126.68,Hamburg,2021-12-15
+ORD18,CUS4060,B2B,Fritz-Kola,Soft Drinks,2.52,65,0.1,147.42,Hamburg,2021-12-15
+ORD19,CUS1921,B2C,Club Mate,Soft Drinks,2.26,5,0.0,11.3,Rheinland-Pfalz,2023-04-05
+ORD19,CUS1921,B2C,Beck's,Alcoholic Beverages,1.41,14,0.0,19.74,Rheinland-Pfalz,2023-04-05
+ORD19,CUS1921,B2C,Tanqueray,Alcoholic Beverages,35.65,14,0.0,499.1,Rheinland-Pfalz,2023-04-05
+ORD19,CUS1921,B2C,Red Bull,Soft Drinks,2.35,12,0.0,28.2,Rheinland-Pfalz,2023-04-05
+ORD19,CUS1921,B2C,Vio Wasser,Water,1.71,4,0.0,6.84,Rheinland-Pfalz,2023-04-05
+ORD20,CUS1195,B2B,Vittel,Water,0.78,74,0.1,51.95,Bremen,2022-02-09
+ORD20,CUS1195,B2B,Beck's,Alcoholic Beverages,1.13,36,0.05,38.65,Bremen,2022-02-09
+ORD21,CUS1877,B2C,Club Mate,Soft Drinks,2.13,3,0.0,6.39,Sachsen,2021-03-24
+ORD21,CUS1877,B2C,Volvic,Water,0.55,12,0.0,6.6,Sachsen,2021-03-24
+ORD21,CUS1877,B2C,Apollinaris,Water,0.93,9,0.0,8.37,Sachsen,2021-03-24
+ORD22,CUS3663,B2C,Rauch Multivitamin,Juices,2.38,6,0.0,14.28,Bremen,2022-09-19
+ORD22,CUS3663,B2C,Passion Fruit Juice,Juices,3.02,9,0.0,27.18,Bremen,2022-09-19
+ORD22,CUS3663,B2C,Beck's,Alcoholic Beverages,1.37,9,0.0,12.33,Bremen,2022-09-19
+ORD23,CUS6385,B2C,Mezzo Mix,Soft Drinks,0.61,1,0.0,0.61,Schleswig-Holstein,2022-03-04
+ORD23,CUS6385,B2C,Fritz-Kola,Soft Drinks,2.05,10,0.0,20.5,Schleswig-Holstein,2022-03-04
+ORD23,CUS6385,B2C,Monster,Soft Drinks,3.21,2,0.0,6.42,Schleswig-Holstein,2022-03-04
+ORD24,CUS1403,B2C,Vittel,Water,0.56,4,0.0,2.24,Nordrhein-Westfalen,2021-01-24
+ORD24,CUS1403,B2C,Augustiner,Alcoholic Beverages,1.09,12,0.0,13.08,Nordrhein-Westfalen,2021-01-24
+ORD24,CUS1403,B2C,Monster,Soft Drinks,3.12,8,0.0,24.96,Nordrhein-Westfalen,2021-01-24
+ORD24,CUS1403,B2C,Pepsi,Soft Drinks,1.49,2,0.0,2.98,Nordrhein-Westfalen,2021-01-24
+ORD24,CUS1403,B2C,Volvic Touch,Water,1.38,1,0.0,1.38,Nordrhein-Westfalen,2021-01-24
+ORD25,CUS2674,B2B,Sauvignon Blanc,Alcoholic Beverages,3.55,20,0.05,67.45,Hamburg,2023-11-16
+ORD25,CUS2674,B2B,Tomato Juice,Juices,2.25,53,0.1,107.32,Hamburg,2023-11-16
+ORD26,CUS8521,B2C,Club Mate,Soft Drinks,2.26,15,0.0,33.9,Hessen,2023-04-23
+ORD26,CUS8521,B2C,Monster,Soft Drinks,3.31,3,0.0,9.93,Hessen,2023-04-23
+ORD27,CUS3397,B2B,Fritz-Kola,Soft Drinks,2.33,23,0.05,50.91,Nordrhein-Westfalen,2023-11-14
+ORD27,CUS3397,B2B,San Pellegrino,Water,0.9,57,0.05,48.74,Nordrhein-Westfalen,2023-11-14
+ORD27,CUS3397,B2B,Chardonnay,Alcoholic Beverages,7.01,61,0.1,384.85,Nordrhein-Westfalen,2023-11-14
+ORD27,CUS3397,B2B,Pepsi,Soft Drinks,0.8,15,0.05,11.4,Nordrhein-Westfalen,2023-11-14
+ORD28,CUS2167,B2B,Hohes C Orange,Juices,1.5,10,0.05,14.25,Nordrhein-Westfalen,2023-08-14
+ORD28,CUS2167,B2B,Monster,Soft Drinks,2.43,56,0.05,129.28,Nordrhein-Westfalen,2023-08-14
+ORD29,CUS3878,B2B,Augustiner,Alcoholic Beverages,2.52,92,0.1,208.66,Sachsen-Anhalt,2023-08-19
+ORD30,CUS948,B2B,Merlot,Alcoholic Beverages,6.03,32,0.05,183.31,Thüringen,2021-04-15
+ORD30,CUS948,B2B,Kölsch,Alcoholic Beverages,1.78,69,0.1,110.54,Thüringen,2021-04-15
+ORD30,CUS948,B2B,Cranberry Juice,Juices,2.27,57,0.1,116.45,Thüringen,2021-04-15
+ORD31,CUS2150,B2B,Volvic,Water,0.57,48,0.1,24.62,Hamburg,2023-06-02
+ORD31,CUS2150,B2B,Mountain Dew,Soft Drinks,0.85,37,0.05,29.88,Hamburg,2023-06-02
+ORD31,CUS2150,B2B,Mango Juice,Juices,2.59,22,0.05,54.13,Hamburg,2023-06-02
+ORD31,CUS2150,B2B,Evian,Water,1.56,65,0.1,91.26,Hamburg,2023-06-02
+ORD32,CUS2028,B2C,Erdinger Weißbier,Alcoholic Beverages,2.04,4,0.0,8.16,Bayern,2023-04-12
+ORD32,CUS2028,B2C,Bacardi,Alcoholic Beverages,14.26,9,0.0,128.34,Bayern,2023-04-12
+ORD33,CUS8216,B2B,Warsteiner,Alcoholic Beverages,1.57,70,0.1,98.91,Niedersachsen,2023-04-06
+ORD33,CUS8216,B2B,Rauch Multivitamin,Juices,2.74,44,0.05,114.53,Niedersachsen,2023-04-06
+ORD33,CUS8216,B2B,Moët & Chandon,Alcoholic Beverages,31.66,34,0.05,1022.62,Niedersachsen,2023-04-06
+ORD34,CUS4572,B2C,Kölsch,Alcoholic Beverages,0.99,14,0.0,13.86,Nordrhein-Westfalen,2023-06-29
+ORD34,CUS4572,B2C,Tomato Juice,Juices,3.43,13,0.0,44.59,Nordrhein-Westfalen,2023-06-29
+ORD34,CUS4572,B2C,Riesling,Alcoholic Beverages,4.32,7,0.0,30.24,Nordrhein-Westfalen,2023-06-29
+ORD35,CUS2664,B2C,Cranberry Juice,Juices,3.67,13,0.0,47.71,Baden-Württemberg,2023-12-15
+ORD35,CUS2664,B2C,Hohes C Orange,Juices,1.86,11,0.0,20.46,Baden-Württemberg,2023-12-15
+ORD35,CUS2664,B2C,Moët & Chandon,Alcoholic Beverages,72.7,4,0.0,290.8,Baden-Württemberg,2023-12-15
+ORD35,CUS2664,B2C,Evian,Water,1.31,13,0.0,17.03,Baden-Württemberg,2023-12-15
+ORD36,CUS2732,B2B,Riesling,Alcoholic Beverages,7.46,17,0.1,114.14,Mecklenburg-Vorpommern,2023-01-02
+ORD37,CUS9074,B2C,Tomato Juice,Juices,3.23,12,0.0,38.76,Thüringen,2021-08-21
+ORD37,CUS9074,B2C,Jever,Alcoholic Beverages,1.88,15,0.0,28.2,Thüringen,2021-08-21
+ORD37,CUS9074,B2C,Apollinaris,Water,0.93,12,0.0,11.16,Thüringen,2021-08-21
+ORD37,CUS9074,B2C,Rauch Multivitamin,Juices,2.31,3,0.0,6.93,Thüringen,2021-08-21
+ORD38,CUS9152,B2B,Hohes C Orange,Juices,3.24,93,0.1,271.19,Schleswig-Holstein,2023-06-30
+ORD38,CUS9152,B2B,Kölsch,Alcoholic Beverages,0.9,16,0.05,13.68,Schleswig-Holstein,2023-06-30
+ORD38,CUS9152,B2B,Sauvignon Blanc,Alcoholic Beverages,9.31,15,0.05,132.67,Schleswig-Holstein,2023-06-30
+ORD38,CUS9152,B2B,Coca-Cola,Soft Drinks,0.68,44,0.1,26.93,Schleswig-Holstein,2023-06-30
+ORD38,CUS9152,B2B,Red Bull,Soft Drinks,3.1,58,0.05,170.81,Schleswig-Holstein,2023-06-30
+ORD39,CUS9580,B2C,Volvic,Water,0.57,1,0.0,0.57,Brandenburg,2022-02-22
+ORD39,CUS9580,B2C,Granini Apple,Juices,1.64,8,0.0,13.12,Brandenburg,2022-02-22
+ORD39,CUS9580,B2C,Evian,Water,1.26,12,0.0,15.12,Brandenburg,2022-02-22
+ORD39,CUS9580,B2C,Hohes C Orange,Juices,1.8,6,0.0,10.8,Brandenburg,2022-02-22
+ORD40,CUS3847,B2B,Rotkäppchen Sekt,Alcoholic Beverages,8.41,90,0.1,681.21,Thüringen,2021-10-15
+ORD40,CUS3847,B2B,Apollinaris,Water,1.04,48,0.05,47.42,Thüringen,2021-10-15
+ORD41,CUS1647,B2B,Passion Fruit Juice,Juices,4.14,71,0.1,264.55,Baden-Württemberg,2021-10-21
+ORD41,CUS1647,B2B,Chardonnay,Alcoholic Beverages,5.06,31,0.05,149.02,Baden-Württemberg,2021-10-21
+ORD42,CUS1799,B2C,Sprite,Soft Drinks,0.55,14,0.0,7.7,Brandenburg,2022-05-05
+ORD42,CUS1799,B2C,Monster,Soft Drinks,3.21,7,0.0,22.47,Brandenburg,2022-05-05
+ORD42,CUS1799,B2C,Red Bull,Soft Drinks,2.28,8,0.0,18.24,Brandenburg,2022-05-05
+ORD43,CUS296,B2C,Pepsi,Soft Drinks,1.74,3,0.0,5.22,Niedersachsen,2023-07-11
+ORD43,CUS296,B2C,Fritz-Kola,Soft Drinks,2.12,4,0.0,8.48,Niedersachsen,2023-07-11
+ORD43,CUS296,B2C,Volvic Touch,Water,1.46,2,0.0,2.92,Niedersachsen,2023-07-11
+ORD43,CUS296,B2C,Club Mate,Soft Drinks,2.26,4,0.0,9.04,Niedersachsen,2023-07-11
+ORD43,CUS296,B2C,Fanta,Soft Drinks,1.23,14,0.0,17.22,Niedersachsen,2023-07-11
+ORD44,CUS5631,B2B,Hohes C Orange,Juices,2.1,38,0.1,71.82,Hessen,2021-10-16
+ORD44,CUS5631,B2B,Schwip Schwap,Soft Drinks,1.31,95,0.1,112.01,Hessen,2021-10-16
+ORD45,CUS596,B2C,Merlot,Alcoholic Beverages,4.35,3,0.0,13.05,Bremen,2022-01-21
+ORD45,CUS596,B2C,Mountain Dew,Soft Drinks,0.96,9,0.0,8.64,Bremen,2022-01-21
+ORD45,CUS596,B2C,Beck's,Alcoholic Beverages,1.37,8,0.0,10.96,Bremen,2022-01-21
+ORD45,CUS596,B2C,Cranberry Juice,Juices,3.56,2,0.0,7.12,Bremen,2022-01-21
+ORD45,CUS596,B2C,Evian,Water,1.26,13,0.0,16.38,Bremen,2022-01-21
+ORD46,CUS5163,B2C,Merlot,Alcoholic Beverages,4.35,4,0.0,17.4,Sachsen-Anhalt,2022-01-28
+ORD46,CUS5163,B2C,Pepsi,Soft Drinks,1.53,3,0.0,4.59,Sachsen-Anhalt,2022-01-28
+ORD46,CUS5163,B2C,Mountain Dew,Soft Drinks,0.96,1,0.0,0.96,Sachsen-Anhalt,2022-01-28
+ORD46,CUS5163,B2C,Volvic,Water,0.57,6,0.0,3.42,Sachsen-Anhalt,2022-01-28
+ORD47,CUS9133,B2B,Passion Fruit Juice,Juices,3.42,57,0.15,165.7,Saarland,2022-05-22
+ORD47,CUS9133,B2B,Veuve Clicquot,Alcoholic Beverages,42.09,15,0.1,568.22,Saarland,2022-05-22
+ORD47,CUS9133,B2B,Granini Apple,Juices,1.67,94,0.15,133.43,Saarland,2022-05-22
+ORD47,CUS9133,B2B,Tomato Juice,Juices,3.04,43,0.1,117.65,Saarland,2022-05-22
+ORD48,CUS77,B2B,Fritz-Kola,Soft Drinks,1.97,36,0.05,67.37,Berlin,2023-07-01
+ORD49,CUS2492,B2C,Passion Fruit Juice,Juices,2.93,1,0.0,2.93,Saarland,2021-10-31
+ORD49,CUS2492,B2C,Mango Juice,Juices,3.12,13,0.0,40.56,Saarland,2021-10-31
+ORD50,CUS7265,B2B,Tanqueray,Alcoholic Beverages,32.61,39,0.05,1208.2,Bayern,2023-06-23
+ORD50,CUS7265,B2B,Coca-Cola,Soft Drinks,0.7,33,0.05,21.94,Bayern,2023-06-23
+ORD50,CUS7265,B2B,Volvic,Water,0.75,88,0.15,56.1,Bayern,2023-06-23
+ORD50,CUS7265,B2B,Krombacher,Alcoholic Beverages,1.21,2,0.05,2.3,Bayern,2023-06-23
+ORD51,CUS3982,B2C,San Pellegrino,Water,0.89,2,0.0,1.78,Sachsen-Anhalt,2022-03-10
+ORD51,CUS3982,B2C,Veuve Clicquot,Alcoholic Beverages,109.19,5,0.0,545.95,Sachsen-Anhalt,2022-03-10
+ORD51,CUS3982,B2C,Kölsch,Alcoholic Beverages,0.96,15,0.0,14.4,Sachsen-Anhalt,2022-03-10
+ORD52,CUS9670,B2C,Evian,Water,1.26,10,0.0,12.6,Berlin,2022-10-20
+ORD52,CUS9670,B2C,Fritz-Kola,Soft Drinks,2.05,10,0.0,20.5,Berlin,2022-10-20
+ORD52,CUS9670,B2C,Merlot,Alcoholic Beverages,4.35,14,0.0,60.9,Berlin,2022-10-20
+ORD53,CUS6801,B2B,Kölsch,Alcoholic Beverages,2.26,70,0.15,134.47,Baden-Württemberg,2021-07-10
+ORD54,CUS5400,B2B,Hohes C Orange,Juices,1.46,7,0.05,9.71,Thüringen,2021-01-13
+ORD54,CUS5400,B2B,Vio Wasser,Water,0.59,33,0.1,17.52,Thüringen,2021-01-13
+ORD54,CUS5400,B2B,Red Bull,Soft Drinks,2.34,50,0.05,111.15,Thüringen,2021-01-13
+ORD54,CUS5400,B2B,Gerolsteiner,Water,0.33,24,0.05,7.52,Thüringen,2021-01-13
+ORD55,CUS3847,B2B,Rauch Multivitamin,Juices,2.84,33,0.05,89.03,Thüringen,2021-05-16
+ORD55,CUS3847,B2B,Passion Fruit Juice,Juices,3.58,93,0.1,299.65,Thüringen,2021-05-16
+ORD55,CUS3847,B2B,Granini Apple,Juices,1.12,60,0.1,60.48,Thüringen,2021-05-16
+ORD55,CUS3847,B2B,Apollinaris,Water,0.68,34,0.05,21.96,Thüringen,2021-05-16
+ORD56,CUS2323,B2C,Passion Fruit Juice,Juices,3.11,1,0.0,3.11,Mecklenburg-Vorpommern,2023-12-27
+ORD57,CUS7386,B2C,Mountain Dew,Soft Drinks,0.96,11,0.0,10.56,Sachsen-Anhalt,2022-11-15
+ORD57,CUS7386,B2C,Apollinaris,Water,0.96,9,0.0,8.64,Sachsen-Anhalt,2022-11-15
+ORD58,CUS939,B2C,Hohes C Orange,Juices,1.86,11,0.0,20.46,Baden-Württemberg,2023-04-14
+ORD58,CUS939,B2C,Passion Fruit Juice,Juices,3.11,8,0.0,24.88,Baden-Württemberg,2023-04-14
+ORD58,CUS939,B2C,Schwip Schwap,Soft Drinks,1.27,14,0.0,17.78,Baden-Württemberg,2023-04-14
+ORD58,CUS939,B2C,Rauch Multivitamin,Juices,2.45,14,0.0,34.3,Baden-Württemberg,2023-04-14
+ORD59,CUS347,B2C,Johnnie Walker,Alcoholic Beverages,35.52,6,0.0,213.12,Berlin,2021-12-05
+ORD60,CUS9599,B2B,Vio Wasser,Water,0.72,50,0.1,32.4,Brandenburg,2022-08-24
+ORD60,CUS9599,B2B,Volvic Touch,Water,1.37,62,0.1,76.45,Brandenburg,2022-08-24
+ORD60,CUS9599,B2B,Rotkäppchen Sekt,Alcoholic Beverages,5.0,39,0.05,185.25,Brandenburg,2022-08-24
+ORD61,CUS2211,B2C,Tanqueray,Alcoholic Beverages,35.65,10,0.0,356.5,Niedersachsen,2023-10-05
+ORD62,CUS2179,B2C,Sprite,Soft Drinks,0.53,10,0.0,5.3,Berlin,2021-06-02
+ORD62,CUS2179,B2C,Johnnie Walker,Alcoholic Beverages,35.52,3,0.0,106.56,Berlin,2021-06-02
+ORD62,CUS2179,B2C,Vittel,Water,0.62,12,0.0,7.44,Berlin,2021-06-02
+ORD62,CUS2179,B2C,Rauch Multivitamin,Juices,2.31,9,0.0,20.79,Berlin,2021-06-02
+ORD62,CUS2179,B2C,Fritz-Kola,Soft Drinks,1.99,15,0.0,29.85,Berlin,2021-06-02
+ORD63,CUS2981,B2C,Schwip Schwap,Soft Drinks,1.24,7,0.0,8.68,Sachsen-Anhalt,2022-09-18
+ORD63,CUS2981,B2C,Apollinaris,Water,0.96,4,0.0,3.84,Sachsen-Anhalt,2022-09-18
+ORD64,CUS5484,B2C,Mezzo Mix,Soft Drinks,0.61,1,0.0,0.61,Rheinland-Pfalz,2022-01-26
+ORD65,CUS6419,B2B,Mango Juice,Juices,3.64,93,0.1,304.67,Baden-Württemberg,2022-03-03
+ORD65,CUS6419,B2B,Monster,Soft Drinks,3.46,67,0.05,220.23,Baden-Württemberg,2022-03-03
+ORD66,CUS118,B2C,Jever,Alcoholic Beverages,1.99,11,0.0,21.89,Brandenburg,2023-11-19
+ORD66,CUS118,B2C,Rauch Multivitamin,Juices,2.45,15,0.0,36.75,Brandenburg,2023-11-19
+ORD66,CUS118,B2C,Vittel,Water,0.59,11,0.0,6.49,Brandenburg,2023-11-19
+ORD66,CUS118,B2C,Red Bull,Soft Drinks,2.35,1,0.0,2.35,Brandenburg,2023-11-19
+ORD66,CUS118,B2C,Club Mate,Soft Drinks,2.26,2,0.0,4.52,Brandenburg,2023-11-19
+ORD67,CUS1215,B2B,Mango Juice,Juices,2.62,32,0.05,79.65,Rheinland-Pfalz,2023-12-29
+ORD67,CUS1215,B2B,Rockstar,Soft Drinks,3.19,80,0.05,242.44,Rheinland-Pfalz,2023-12-29
+ORD67,CUS1215,B2B,Havana Club,Alcoholic Beverages,18.16,17,0.1,277.85,Rheinland-Pfalz,2023-12-29
+ORD67,CUS1215,B2B,Krombacher,Alcoholic Beverages,1.11,69,0.1,68.93,Rheinland-Pfalz,2023-12-29
+ORD67,CUS1215,B2B,Warsteiner,Alcoholic Beverages,1.7,77,0.15,111.26,Rheinland-Pfalz,2023-12-29
+ORD68,CUS6188,B2C,Selters,Water,0.49,5,0.0,2.45,Bremen,2023-03-03
+ORD68,CUS6188,B2C,Vio Wasser,Water,1.71,11,0.0,18.81,Bremen,2023-03-03
+ORD68,CUS6188,B2C,Evian,Water,1.31,8,0.0,10.48,Bremen,2023-03-03
+ORD68,CUS6188,B2C,Riesling,Alcoholic Beverages,4.32,13,0.0,56.16,Bremen,2023-03-03
+ORD68,CUS6188,B2C,San Pellegrino,Water,0.91,1,0.0,0.91,Bremen,2023-03-03
+ORD69,CUS3724,B2C,Hohes C Orange,Juices,1.86,2,0.0,3.72,Thüringen,2023-08-26
+ORD69,CUS3724,B2C,Mango Juice,Juices,3.31,10,0.0,33.1,Thüringen,2023-08-26
+ORD69,CUS3724,B2C,Johnnie Walker,Alcoholic Beverages,37.69,3,0.0,113.07,Thüringen,2023-08-26
+ORD70,CUS1153,B2C,Granini Apple,Juices,1.59,6,0.0,9.54,Thüringen,2021-05-26
+ORD70,CUS1153,B2C,Passion Fruit Juice,Juices,2.93,2,0.0,5.86,Thüringen,2021-05-26
+ORD70,CUS1153,B2C,Vio Wasser,Water,1.61,9,0.0,14.49,Thüringen,2021-05-26
+ORD70,CUS1153,B2C,Tomato Juice,Juices,3.23,5,0.0,16.15,Thüringen,2021-05-26
+ORD71,CUS7806,B2C,Vittel,Water,0.56,6,0.0,3.36,Bremen,2021-02-04
+ORD71,CUS7806,B2C,Beck's,Alcoholic Beverages,1.33,12,0.0,15.96,Bremen,2021-02-04
+ORD71,CUS7806,B2C,Mountain Dew,Soft Drinks,0.93,1,0.0,0.93,Bremen,2021-02-04
+ORD71,CUS7806,B2C,Warsteiner,Alcoholic Beverages,1.02,4,0.0,4.08,Bremen,2021-02-04
+ORD71,CUS7806,B2C,Evian,Water,1.23,13,0.0,15.99,Bremen,2021-02-04
+ORD72,CUS4540,B2C,Augustiner,Alcoholic Beverages,1.09,6,0.0,6.54,Bayern,2021-03-07
+ORD72,CUS4540,B2C,Hohes C Orange,Juices,1.75,4,0.0,7.0,Bayern,2021-03-07
+ORD72,CUS4540,B2C,Moët & Chandon,Alcoholic Beverages,57.11,7,0.0,399.77,Bayern,2021-03-07
+ORD73,CUS987,B2B,Rotkäppchen Sekt,Alcoholic Beverages,3.54,43,0.1,137.0,Hamburg,2022-12-07
+ORD73,CUS987,B2B,Mango Juice,Juices,3.65,94,0.15,291.64,Hamburg,2022-12-07
+ORD73,CUS987,B2B,Red Bull,Soft Drinks,2.59,35,0.1,81.58,Hamburg,2022-12-07
+ORD73,CUS987,B2B,Fritz-Kola,Soft Drinks,2.66,81,0.1,193.91,Hamburg,2022-12-07
+ORD74,CUS7439,B2C,Fritz-Kola,Soft Drinks,2.12,2,0.0,4.24,Sachsen,2023-02-06
+ORD74,CUS7439,B2C,Erdinger Weißbier,Alcoholic Beverages,2.04,14,0.0,28.56,Sachsen,2023-02-06
+ORD75,CUS5847,B2B,San Pellegrino,Water,1.02,38,0.15,32.95,Bayern,2022-02-08
+ORD76,CUS6887,B2C,Vittel,Water,0.59,12,0.0,7.08,Bayern,2023-04-12
+ORD76,CUS6887,B2C,Selters,Water,0.49,4,0.0,1.96,Bayern,2023-04-12
+ORD76,CUS6887,B2C,Cranberry Juice,Juices,3.67,4,0.0,14.68,Bayern,2023-04-12
+ORD77,CUS3658,B2C,Club Mate,Soft Drinks,2.19,13,0.0,28.47,Niedersachsen,2022-07-03
+ORD77,CUS3658,B2C,Hohes C Orange,Juices,1.8,10,0.0,18.0,Niedersachsen,2022-07-03
+ORD77,CUS3658,B2C,Pepsi,Soft Drinks,1.68,3,0.0,5.04,Niedersachsen,2022-07-03
+ORD77,CUS3658,B2C,Red Bull,Soft Drinks,2.28,12,0.0,27.36,Niedersachsen,2022-07-03
+ORD78,CUS1718,B2C,Hohes C Orange,Juices,1.75,4,0.0,7.0,Saarland,2021-10-13
+ORD78,CUS1718,B2C,Mountain Dew,Soft Drinks,0.93,4,0.0,3.72,Saarland,2021-10-13
+ORD78,CUS1718,B2C,Bacardi,Alcoholic Beverages,13.44,8,0.0,107.52,Saarland,2021-10-13
+ORD78,CUS1718,B2C,Apollinaris,Water,0.93,6,0.0,5.58,Saarland,2021-10-13
+ORD79,CUS7926,B2C,Sprite,Soft Drinks,0.53,12,0.0,6.36,Baden-Württemberg,2021-11-23
+ORD79,CUS7926,B2C,Mango Juice,Juices,3.12,7,0.0,21.84,Baden-Württemberg,2021-11-23
+ORD80,CUS5587,B2B,Vittel,Water,0.45,87,0.1,35.24,Hamburg,2021-08-10
+ORD80,CUS5587,B2B,Moët & Chandon,Alcoholic Beverages,33.6,20,0.05,638.4,Hamburg,2021-08-10
+ORD81,CUS6826,B2C,Bacardi,Alcoholic Beverages,14.26,3,0.0,42.78,Schleswig-Holstein,2023-01-01
+ORD81,CUS6826,B2C,Fanta,Soft Drinks,1.23,12,0.0,14.76,Schleswig-Holstein,2023-01-01
+ORD81,CUS6826,B2C,Mango Juice,Juices,3.31,12,0.0,39.72,Schleswig-Holstein,2023-01-01
+ORD82,CUS199,B2C,Cranberry Juice,Juices,3.46,5,0.0,17.3,Bremen,2021-04-09
+ORD82,CUS199,B2C,Mezzo Mix,Soft Drinks,0.59,11,0.0,6.49,Bremen,2021-04-09
+ORD82,CUS199,B2C,Schwip Schwap,Soft Drinks,1.2,8,0.0,9.6,Bremen,2021-04-09
+ORD82,CUS199,B2C,Rauch Multivitamin,Juices,2.31,15,0.0,34.65,Bremen,2021-04-09
+ORD82,CUS199,B2C,San Pellegrino,Water,0.86,8,0.0,6.88,Bremen,2021-04-09
+ORD83,CUS10,B2C,Kölsch,Alcoholic Beverages,0.93,11,0.0,10.23,Saarland,2021-03-21
+ORD83,CUS10,B2C,Sauvignon Blanc,Alcoholic Beverages,8.57,2,0.0,17.14,Saarland,2021-03-21
+ORD83,CUS10,B2C,Mango Juice,Juices,3.12,5,0.0,15.6,Saarland,2021-03-21
+ORD84,CUS6620,B2B,Schwip Schwap,Soft Drinks,0.54,11,0.05,5.64,Baden-Württemberg,2021-02-19
+ORD84,CUS6620,B2B,Fritz-Kola,Soft Drinks,3.08,95,0.1,263.34,Baden-Württemberg,2021-02-19
+ORD84,CUS6620,B2B,Vittel,Water,0.51,32,0.05,15.5,Baden-Württemberg,2021-02-19
+ORD84,CUS6620,B2B,Evian,Water,1.31,86,0.1,101.39,Baden-Württemberg,2021-02-19
+ORD84,CUS6620,B2B,Hohes C Orange,Juices,2.57,84,0.1,194.29,Baden-Württemberg,2021-02-19
+ORD85,CUS2969,B2C,Rauch Multivitamin,Juices,2.38,11,0.0,26.18,Baden-Württemberg,2022-05-24
+ORD86,CUS717,B2B,Fritz-Kola,Soft Drinks,2.39,39,0.05,88.55,Hamburg,2023-09-10
+ORD86,CUS717,B2B,Cranberry Juice,Juices,2.79,43,0.05,113.97,Hamburg,2023-09-10
+ORD86,CUS717,B2B,San Pellegrino,Water,1.03,88,0.1,81.58,Hamburg,2023-09-10
+ORD86,CUS717,B2B,Granini Apple,Juices,1.36,49,0.1,59.98,Hamburg,2023-09-10
+ORD86,CUS717,B2B,Hohes C Orange,Juices,2.45,61,0.05,141.98,Hamburg,2023-09-10
+ORD87,CUS3950,B2C,Bacardi,Alcoholic Beverages,14.26,4,0.0,57.04,Sachsen,2023-04-15
+ORD88,CUS8418,B2C,Jever,Alcoholic Beverages,1.88,12,0.0,22.56,Hessen,2021-12-05
+ORD89,CUS1836,B2C,Schwip Schwap,Soft Drinks,1.24,12,0.0,14.88,Bremen,2022-08-13
+ORD89,CUS1836,B2C,Coca-Cola,Soft Drinks,1.18,7,0.0,8.26,Bremen,2022-08-13
+ORD89,CUS1836,B2C,Merlot,Alcoholic Beverages,4.35,13,0.0,56.55,Bremen,2022-08-13
+ORD90,CUS7758,B2C,Tanqueray,Alcoholic Beverages,34.61,3,0.0,103.83,Mecklenburg-Vorpommern,2022-04-27
+ORD90,CUS7758,B2C,Rauch Multivitamin,Juices,2.38,12,0.0,28.56,Mecklenburg-Vorpommern,2022-04-27
+ORD90,CUS7758,B2C,Mango Juice,Juices,3.21,10,0.0,32.1,Mecklenburg-Vorpommern,2022-04-27
+ORD90,CUS7758,B2C,Rockstar,Soft Drinks,2.27,6,0.0,13.62,Mecklenburg-Vorpommern,2022-04-27
+ORD91,CUS8849,B2C,Sauvignon Blanc,Alcoholic Beverages,8.83,13,0.0,114.79,Niedersachsen,2022-10-01
+ORD91,CUS8849,B2C,Veuve Clicquot,Alcoholic Beverages,109.19,3,0.0,327.57,Niedersachsen,2022-10-01
+ORD92,CUS4164,B2B,Passion Fruit Juice,Juices,2.4,66,0.05,150.48,Thüringen,2023-10-29
+ORD92,CUS4164,B2B,Tanqueray,Alcoholic Beverages,32.93,34,0.05,1063.64,Thüringen,2023-10-29
+ORD92,CUS4164,B2B,Rauch Multivitamin,Juices,2.91,65,0.05,179.69,Thüringen,2023-10-29
+ORD93,CUS5020,B2C,Club Mate,Soft Drinks,2.26,2,0.0,4.52,Nordrhein-Westfalen,2023-03-05
+ORD93,CUS5020,B2C,Rauch Multivitamin,Juices,2.45,14,0.0,34.3,Nordrhein-Westfalen,2023-03-05
+ORD93,CUS5020,B2C,Passion Fruit Juice,Juices,3.11,6,0.0,18.66,Nordrhein-Westfalen,2023-03-05
+ORD94,CUS6080,B2B,Fritz-Kola,Soft Drinks,2.75,90,0.15,210.38,Niedersachsen,2022-08-21
+ORD94,CUS6080,B2B,Hohes C Orange,Juices,1.36,86,0.1,105.26,Niedersachsen,2022-08-21
+ORD95,CUS5975,B2B,Jever,Alcoholic Beverages,1.53,64,0.1,88.13,Schleswig-Holstein,2022-08-01
+ORD95,CUS5975,B2B,Apollinaris,Water,1.32,62,0.05,77.75,Schleswig-Holstein,2022-08-01
+ORD96,CUS1759,B2C,Johnnie Walker,Alcoholic Beverages,35.52,14,0.0,497.28,Rheinland-Pfalz,2021-02-14
+ORD96,CUS1759,B2C,Club Mate,Soft Drinks,2.13,5,0.0,10.65,Rheinland-Pfalz,2021-02-14
+ORD96,CUS1759,B2C,Pepsi,Soft Drinks,1.49,4,0.0,5.96,Rheinland-Pfalz,2021-02-14
+ORD97,CUS1150,B2C,San Pellegrino,Water,0.91,3,0.0,2.73,Sachsen-Anhalt,2023-07-29
+ORD97,CUS1150,B2C,Selters,Water,0.49,7,0.0,3.43,Sachsen-Anhalt,2023-07-29
+ORD97,CUS1150,B2C,Merlot,Alcoholic Beverages,4.48,9,0.0,40.32,Sachsen-Anhalt,2023-07-29
+ORD97,CUS1150,B2C,Vittel,Water,0.65,2,0.0,1.3,Sachsen-Anhalt,2023-07-29
+ORD98,CUS8100,B2B,Schwip Schwap,Soft Drinks,0.85,69,0.05,55.72,Schleswig-Holstein,2022-11-30
+ORD98,CUS8100,B2B,Mango Juice,Juices,3.55,71,0.05,239.45,Schleswig-Holstein,2022-11-30
+ORD99,CUS8574,B2C,Pepsi,Soft Drinks,1.58,8,0.0,12.64,Bayern,2023-03-31
+ORD100,CUS6173,B2C,Coca-Cola,Soft Drinks,1.1,5,0.0,5.5,Hessen,2023-12-25
+ORD100,CUS6173,B2C,Beck's,Alcoholic Beverages,1.41,1,0.0,1.41,Hessen,2023-12-25
+ORD101,CUS3731,B2C,Rotkäppchen Sekt,Alcoholic Beverages,8.29,15,0.0,124.35,Hamburg,2022-04-14
+ORD101,CUS3731,B2C,Riesling,Alcoholic Beverages,4.19,14,0.0,58.66,Hamburg,2022-04-14
+ORD101,CUS3731,B2C,Selters,Water,0.47,1,0.0,0.47,Hamburg,2022-04-14
+ORD101,CUS3731,B2C,Volvic,Water,0.57,9,0.0,5.13,Hamburg,2022-04-14
+ORD102,CUS3474,B2C,Veuve Clicquot,Alcoholic Beverages,112.46,5,0.0,562.3,Sachsen-Anhalt,2023-10-11
+ORD102,CUS3474,B2C,Jack Daniels,Alcoholic Beverages,51.76,2,0.0,103.52,Sachsen-Anhalt,2023-10-11
+ORD103,CUS9762,B2B,Mountain Dew,Soft Drinks,0.67,43,0.05,27.37,Saarland,2021-07-02
+ORD103,CUS9762,B2B,Monster,Soft Drinks,3.54,46,0.05,154.7,Saarland,2021-07-02
+ORD103,CUS9762,B2B,Bacardi,Alcoholic Beverages,16.51,49,0.05,768.54,Saarland,2021-07-02
+ORD103,CUS9762,B2B,Granini Apple,Juices,2.64,92,0.1,218.59,Saarland,2021-07-02
+ORD104,CUS879,B2B,Fritz-Kola,Soft Drinks,2.76,53,0.1,131.65,Brandenburg,2023-06-22
+ORD105,CUS1808,B2C,Johnnie Walker,Alcoholic Beverages,36.59,12,0.0,439.08,Baden-Württemberg,2022-05-24
+ORD105,CUS1808,B2C,Pepsi,Soft Drinks,1.53,10,0.0,15.3,Baden-Württemberg,2022-05-24
+ORD105,CUS1808,B2C,Rauch Multivitamin,Juices,2.38,13,0.0,30.94,Baden-Württemberg,2022-05-24
+ORD105,CUS1808,B2C,Mountain Dew,Soft Drinks,0.96,7,0.0,6.72,Baden-Württemberg,2022-05-24
+ORD106,CUS2698,B2C,Mountain Dew,Soft Drinks,0.96,13,0.0,12.48,Niedersachsen,2022-04-22
+ORD106,CUS2698,B2C,Rotkäppchen Sekt,Alcoholic Beverages,8.29,14,0.0,116.06,Niedersachsen,2022-04-22
+ORD106,CUS2698,B2C,Hohes C Orange,Juices,1.8,2,0.0,3.6,Niedersachsen,2022-04-22
+ORD107,CUS800,B2B,Evian,Water,1.06,5,0.05,5.04,Niedersachsen,2023-11-22
+ORD108,CUS9588,B2C,Club Mate,Soft Drinks,2.13,2,0.0,4.26,Schleswig-Holstein,2021-01-11
+ORD109,CUS8950,B2B,Merlot,Alcoholic Beverages,5.81,6,0.05,33.12,Niedersachsen,2021-08-27
+ORD109,CUS8950,B2B,Warsteiner,Alcoholic Beverages,1.78,87,0.1,139.37,Niedersachsen,2021-08-27
+ORD110,CUS2791,B2C,Fritz-Kola,Soft Drinks,1.99,15,0.0,29.85,Baden-Württemberg,2021-12-04
+ORD110,CUS2791,B2C,Hohes C Orange,Juices,1.75,13,0.0,22.75,Baden-Württemberg,2021-12-04
+ORD110,CUS2791,B2C,Mango Juice,Juices,3.12,5,0.0,15.6,Baden-Württemberg,2021-12-04
+ORD110,CUS2791,B2C,Selters,Water,0.46,13,0.0,5.98,Baden-Württemberg,2021-12-04
+ORD110,CUS2791,B2C,Rockstar,Soft Drinks,2.21,14,0.0,30.94,Baden-Württemberg,2021-12-04
+ORD111,CUS5767,B2B,Veuve Clicquot,Alcoholic Beverages,70.94,84,0.05,5661.01,Bremen,2021-02-04
+ORD111,CUS5767,B2B,Hohes C Orange,Juices,1.67,14,0.05,22.21,Bremen,2021-02-04
+ORD112,CUS9836,B2B,Jever,Alcoholic Beverages,1.86,94,0.15,148.61,Bremen,2023-02-13
+ORD112,CUS9836,B2B,Passion Fruit Juice,Juices,3.01,81,0.15,207.24,Bremen,2023-02-13
+ORD112,CUS9836,B2B,Volvic,Water,0.85,94,0.1,71.91,Bremen,2023-02-13
+ORD112,CUS9836,B2B,Coca-Cola,Soft Drinks,0.58,20,0.05,11.02,Bremen,2023-02-13
+ORD113,CUS6792,B2B,Hohes C Orange,Juices,1.36,23,0.1,28.15,Bayern,2022-07-22
+ORD113,CUS6792,B2B,Apollinaris,Water,1.38,70,0.05,91.77,Bayern,2022-07-22
+ORD114,CUS85,B2B,Schwip Schwap,Soft Drinks,0.77,64,0.1,44.35,Rheinland-Pfalz,2023-03-01
+ORD114,CUS85,B2B,Passion Fruit Juice,Juices,3.19,94,0.1,269.87,Rheinland-Pfalz,2023-03-01
+ORD114,CUS85,B2B,Sauvignon Blanc,Alcoholic Beverages,10.58,43,0.05,432.19,Rheinland-Pfalz,2023-03-01
+ORD115,CUS9902,B2C,Beck's,Alcoholic Beverages,1.41,14,0.0,19.74,Saarland,2023-02-26
+ORD115,CUS9902,B2C,San Pellegrino,Water,0.91,1,0.0,0.91,Saarland,2023-02-26
+ORD115,CUS9902,B2C,Mountain Dew,Soft Drinks,0.99,12,0.0,11.88,Saarland,2023-02-26
+ORD115,CUS9902,B2C,Sprite,Soft Drinks,0.56,2,0.0,1.12,Saarland,2023-02-26
+ORD116,CUS3915,B2B,Mango Juice,Juices,2.33,58,0.1,121.63,Bremen,2021-03-24
+ORD116,CUS3915,B2B,Granini Apple,Juices,2.51,77,0.15,164.28,Bremen,2021-03-24
+ORD116,CUS3915,B2B,Fritz-Kola,Soft Drinks,2.9,99,0.15,244.03,Bremen,2021-03-24
+ORD116,CUS3915,B2B,Beck's,Alcoholic Beverages,0.92,13,0.05,11.36,Bremen,2021-03-24
+ORD117,CUS4146,B2C,Pepsi,Soft Drinks,1.58,10,0.0,15.8,Bayern,2023-02-17
+ORD117,CUS4146,B2C,Erdinger Weißbier,Alcoholic Beverages,2.04,7,0.0,14.28,Bayern,2023-02-17
+ORD117,CUS4146,B2C,Mango Juice,Juices,3.31,13,0.0,43.03,Bayern,2023-02-17
+ORD117,CUS4146,B2C,Mezzo Mix,Soft Drinks,0.63,10,0.0,6.3,Bayern,2023-02-17
+ORD117,CUS4146,B2C,Rockstar,Soft Drinks,2.34,6,0.0,14.04,Bayern,2023-02-17
+ORD118,CUS1244,B2C,Bacardi,Alcoholic Beverages,13.84,11,0.0,152.24,Saarland,2022-06-04
+ORD118,CUS1244,B2C,Rauch Multivitamin,Juices,2.38,15,0.0,35.7,Saarland,2022-06-04
+ORD118,CUS1244,B2C,Erdinger Weißbier,Alcoholic Beverages,2.18,5,0.0,10.9,Saarland,2022-06-04
+ORD118,CUS1244,B2C,Passion Fruit Juice,Juices,3.02,7,0.0,21.14,Saarland,2022-06-04
+ORD119,CUS8217,B2C,Sprite,Soft Drinks,0.56,3,0.0,1.68,Berlin,2023-03-10
+ORD120,CUS4874,B2B,Krombacher,Alcoholic Beverages,1.72,56,0.05,91.5,Bremen,2022-01-22
+ORD121,CUS5208,B2B,Club Mate,Soft Drinks,2.69,23,0.05,58.78,Brandenburg,2022-02-12
+ORD122,CUS5165,B2C,Schwip Schwap,Soft Drinks,1.2,9,0.0,10.8,Schleswig-Holstein,2021-02-15
+ORD122,CUS5165,B2C,Erdinger Weißbier,Alcoholic Beverages,1.92,7,0.0,13.44,Schleswig-Holstein,2021-02-15
+ORD123,CUS4179,B2B,Hohes C Orange,Juices,1.83,29,0.1,47.76,Bayern,2023-05-28
+ORD123,CUS4179,B2B,Vittel,Water,0.54,37,0.05,18.98,Bayern,2023-05-28
+ORD123,CUS4179,B2B,Cranberry Juice,Juices,2.4,13,0.05,29.64,Bayern,2023-05-28
+ORD123,CUS4179,B2B,Pepsi,Soft Drinks,1.22,38,0.05,44.04,Bayern,2023-05-28
+ORD123,CUS4179,B2B,Fritz-Kola,Soft Drinks,2.93,93,0.1,245.24,Bayern,2023-05-28
+ORD124,CUS6214,B2B,Erdinger Weißbier,Alcoholic Beverages,3.17,9,0.05,27.1,Thüringen,2021-08-26
+ORD124,CUS6214,B2B,Granini Apple,Juices,2.13,11,0.05,22.26,Thüringen,2021-08-26
+ORD124,CUS6214,B2B,Kölsch,Alcoholic Beverages,2.03,97,0.1,177.22,Thüringen,2021-08-26
+ORD125,CUS9419,B2B,Mango Juice,Juices,3.73,97,0.15,307.54,Saarland,2023-02-15
+ORD126,CUS1680,B2C,Hohes C Orange,Juices,1.75,2,0.0,3.5,Schleswig-Holstein,2021-06-09
+ORD126,CUS1680,B2C,Fritz-Kola,Soft Drinks,1.99,9,0.0,17.91,Schleswig-Holstein,2021-06-09
+ORD127,CUS1605,B2C,Chardonnay,Alcoholic Beverages,5.03,4,0.0,20.12,Sachsen,2023-08-07
+ORD128,CUS5661,B2C,Mango Juice,Juices,3.31,6,0.0,19.86,Rheinland-Pfalz,2023-11-13
+ORD128,CUS5661,B2C,Club Mate,Soft Drinks,2.26,10,0.0,22.6,Rheinland-Pfalz,2023-11-13
+ORD129,CUS3961,B2B,Mango Juice,Juices,2.39,42,0.05,95.36,Bremen,2022-03-23
+ORD129,CUS3961,B2B,Apollinaris,Water,0.54,25,0.05,12.82,Bremen,2022-03-23
+ORD129,CUS3961,B2B,Vio Wasser,Water,0.68,21,0.15,12.14,Bremen,2022-03-23
+ORD130,CUS6366,B2B,Mountain Dew,Soft Drinks,1.11,90,0.1,89.91,Hamburg,2022-06-29
+ORD130,CUS6366,B2B,Schwip Schwap,Soft Drinks,0.59,20,0.05,11.21,Hamburg,2022-06-29
+ORD130,CUS6366,B2B,Red Bull,Soft Drinks,2.48,68,0.05,160.21,Hamburg,2022-06-29
+ORD130,CUS6366,B2B,Johnnie Walker,Alcoholic Beverages,23.05,19,0.1,394.16,Hamburg,2022-06-29
+ORD131,CUS1076,B2B,Apollinaris,Water,0.59,12,0.05,6.73,Mecklenburg-Vorpommern,2021-06-01
+ORD131,CUS1076,B2B,Vittel,Water,0.56,42,0.05,22.34,Mecklenburg-Vorpommern,2021-06-01
+ORD131,CUS1076,B2B,Cranberry Juice,Juices,4.12,100,0.15,350.2,Mecklenburg-Vorpommern,2021-06-01
+ORD131,CUS1076,B2B,San Pellegrino,Water,1.08,94,0.1,91.37,Mecklenburg-Vorpommern,2021-06-01
+ORD132,CUS8238,B2B,Krombacher,Alcoholic Beverages,1.48,77,0.1,102.56,Nordrhein-Westfalen,2022-05-31
+ORD132,CUS8238,B2B,Bacardi,Alcoholic Beverages,36.3,99,0.1,3234.33,Nordrhein-Westfalen,2022-05-31
+ORD133,CUS186,B2C,Cranberry Juice,Juices,3.67,10,0.0,36.7,Hamburg,2023-07-20
+ORD133,CUS186,B2C,Tomato Juice,Juices,3.43,9,0.0,30.87,Hamburg,2023-07-20
+ORD133,CUS186,B2C,Apollinaris,Water,0.99,9,0.0,8.91,Hamburg,2023-07-20
+ORD133,CUS186,B2C,Bacardi,Alcoholic Beverages,14.26,8,0.0,114.08,Hamburg,2023-07-20
+ORD134,CUS647,B2C,Jever,Alcoholic Beverages,1.94,2,0.0,3.88,Baden-Württemberg,2022-02-07
+ORD135,CUS5304,B2C,Evian,Water,1.26,8,0.0,10.08,Niedersachsen,2022-03-07
+ORD136,CUS8730,B2C,Pepsi,Soft Drinks,1.53,6,0.0,9.18,Bremen,2022-04-21
+ORD136,CUS8730,B2C,Volvic Touch,Water,1.42,14,0.0,19.88,Bremen,2022-04-21
+ORD136,CUS8730,B2C,Gerolsteiner,Water,1.04,15,0.0,15.6,Bremen,2022-04-21
+ORD136,CUS8730,B2C,Volvic,Water,0.57,13,0.0,7.41,Bremen,2022-04-21
+ORD136,CUS8730,B2C,Red Bull,Soft Drinks,2.28,12,0.0,27.36,Bremen,2022-04-21
+ORD137,CUS8138,B2B,Volvic Touch,Water,1.18,60,0.1,63.72,Saarland,2021-04-01
+ORD137,CUS8138,B2B,Club Mate,Soft Drinks,2.13,62,0.1,118.85,Saarland,2021-04-01
+ORD137,CUS8138,B2B,Volvic,Water,0.4,2,0.05,0.76,Saarland,2021-04-01
+ORD138,CUS7116,B2C,Volvic Touch,Water,1.42,7,0.0,9.94,Schleswig-Holstein,2022-01-17
+ORD138,CUS7116,B2C,Apollinaris,Water,0.96,14,0.0,13.44,Schleswig-Holstein,2022-01-17
+ORD138,CUS7116,B2C,Fanta,Soft Drinks,1.19,8,0.0,9.52,Schleswig-Holstein,2022-01-17
+ORD138,CUS7116,B2C,Cranberry Juice,Juices,3.56,8,0.0,28.48,Schleswig-Holstein,2022-01-17
+ORD138,CUS7116,B2C,Vittel,Water,0.58,3,0.0,1.74,Schleswig-Holstein,2022-01-17
+ORD139,CUS7240,B2C,Evian,Water,1.31,9,0.0,11.79,Bayern,2023-01-12
+ORD139,CUS7240,B2C,Krombacher,Alcoholic Beverages,1.63,4,0.0,6.52,Bayern,2023-01-12
+ORD139,CUS7240,B2C,Club Mate,Soft Drinks,2.26,12,0.0,27.12,Bayern,2023-01-12
+ORD140,CUS1636,B2C,Rauch Multivitamin,Juices,2.45,14,0.0,34.3,Sachsen,2023-04-21
+ORD141,CUS710,B2C,Volvic Touch,Water,1.38,7,0.0,9.66,Rheinland-Pfalz,2021-09-14
+ORD141,CUS710,B2C,Riesling,Alcoholic Beverages,4.07,10,0.0,40.7,Rheinland-Pfalz,2021-09-14
+ORD141,CUS710,B2C,Monster,Soft Drinks,3.12,9,0.0,28.08,Rheinland-Pfalz,2021-09-14
+ORD141,CUS710,B2C,Tanqueray,Alcoholic Beverages,33.6,6,0.0,201.6,Rheinland-Pfalz,2021-09-14
+ORD142,CUS5461,B2C,Tomato Juice,Juices,3.43,2,0.0,6.86,Bremen,2023-01-01
+ORD142,CUS5461,B2C,Volvic Touch,Water,1.46,11,0.0,16.06,Bremen,2023-01-01
+ORD142,CUS5461,B2C,Passion Fruit Juice,Juices,3.11,4,0.0,12.44,Bremen,2023-01-01
+ORD142,CUS5461,B2C,Hohes C Orange,Juices,1.86,15,0.0,27.9,Bremen,2023-01-01
+ORD142,CUS5461,B2C,Moët & Chandon,Alcoholic Beverages,60.58,4,0.0,242.32,Bremen,2023-01-01
+ORD143,CUS3283,B2C,Sauvignon Blanc,Alcoholic Beverages,8.57,1,0.0,8.57,Rheinland-Pfalz,2021-08-19
+ORD143,CUS3283,B2C,Jack Daniels,Alcoholic Beverages,48.79,6,0.0,292.74,Rheinland-Pfalz,2021-08-19
+ORD143,CUS3283,B2C,Hohes C Orange,Juices,1.75,8,0.0,14.0,Rheinland-Pfalz,2021-08-19
+ORD143,CUS3283,B2C,Selters,Water,0.46,7,0.0,3.22,Rheinland-Pfalz,2021-08-19
+ORD144,CUS2172,B2C,Jack Daniels,Alcoholic Beverages,50.25,6,0.0,301.5,Saarland,2022-12-11
+ORD144,CUS2172,B2C,Fanta,Soft Drinks,1.19,7,0.0,8.33,Saarland,2022-12-11
+ORD144,CUS2172,B2C,Mango Juice,Juices,3.21,2,0.0,6.42,Saarland,2022-12-11
+ORD145,CUS2746,B2C,Selters,Water,0.46,15,0.0,6.9,Schleswig-Holstein,2021-05-19
+ORD145,CUS2746,B2C,Moët & Chandon,Alcoholic Beverages,57.11,8,0.0,456.88,Schleswig-Holstein,2021-05-19
+ORD145,CUS2746,B2C,Vittel,Water,0.56,11,0.0,6.16,Schleswig-Holstein,2021-05-19
+ORD145,CUS2746,B2C,Chardonnay,Alcoholic Beverages,4.74,7,0.0,33.18,Schleswig-Holstein,2021-05-19
+ORD145,CUS2746,B2C,Rauch Multivitamin,Juices,2.31,12,0.0,27.72,Schleswig-Holstein,2021-05-19
+ORD146,CUS5410,B2C,Gerolsteiner,Water,1.01,9,0.0,9.09,Bremen,2021-12-30
+ORD146,CUS5410,B2C,Coca-Cola,Soft Drinks,1.04,14,0.0,14.56,Bremen,2021-12-30
+ORD146,CUS5410,B2C,Schwip Schwap,Soft Drinks,1.2,13,0.0,15.6,Bremen,2021-12-30
+ORD147,CUS5625,B2C,Augustiner,Alcoholic Beverages,1.16,12,0.0,13.92,Berlin,2023-08-25
+ORD147,CUS5625,B2C,Vio Wasser,Water,1.71,4,0.0,6.84,Berlin,2023-08-25
+ORD147,CUS5625,B2C,Rauch Multivitamin,Juices,2.45,8,0.0,19.6,Berlin,2023-08-25
+ORD147,CUS5625,B2C,Volvic Touch,Water,1.46,5,0.0,7.3,Berlin,2023-08-25
+ORD148,CUS8180,B2B,San Pellegrino,Water,1.11,72,0.1,71.93,Baden-Württemberg,2021-05-11
+ORD148,CUS8180,B2B,Granini Apple,Juices,1.31,59,0.1,69.56,Baden-Württemberg,2021-05-11
+ORD149,CUS3332,B2C,San Pellegrino,Water,0.86,4,0.0,3.44,Mecklenburg-Vorpommern,2021-09-11
+ORD149,CUS3332,B2C,Passion Fruit Juice,Juices,2.93,3,0.0,8.79,Mecklenburg-Vorpommern,2021-09-11
+ORD149,CUS3332,B2C,Rauch Multivitamin,Juices,2.31,9,0.0,20.79,Mecklenburg-Vorpommern,2021-09-11
+ORD149,CUS3332,B2C,Mezzo Mix,Soft Drinks,0.59,12,0.0,7.08,Mecklenburg-Vorpommern,2021-09-11
+ORD150,CUS6370,B2B,Sauvignon Blanc,Alcoholic Beverages,8.9,85,0.15,643.02,Hamburg,2023-08-04
+ORD151,CUS4992,B2B,San Pellegrino,Water,0.45,58,0.05,24.8,Baden-Württemberg,2023-11-19
+ORD152,CUS7957,B2B,Coca-Cola,Soft Drinks,0.95,53,0.05,47.83,Baden-Württemberg,2021-04-10
+ORD152,CUS7957,B2B,Granini Apple,Juices,1.52,43,0.05,62.09,Baden-Württemberg,2021-04-10
+ORD152,CUS7957,B2B,Fritz-Kola,Soft Drinks,2.38,38,0.05,85.92,Baden-Württemberg,2021-04-10
+ORD152,CUS7957,B2B,Rotkäppchen Sekt,Alcoholic Beverages,7.51,7,0.05,49.94,Baden-Württemberg,2021-04-10
+ORD153,CUS9256,B2B,Merlot,Alcoholic Beverages,6.01,16,0.05,91.35,Sachsen-Anhalt,2021-08-02
+ORD154,CUS9366,B2C,Johnnie Walker,Alcoholic Beverages,37.69,2,0.0,75.38,Baden-Württemberg,2023-05-18
+ORD154,CUS9366,B2C,Red Bull,Soft Drinks,2.35,14,0.0,32.9,Baden-Württemberg,2023-05-18
+ORD154,CUS9366,B2C,Vio Wasser,Water,1.71,12,0.0,20.52,Baden-Württemberg,2023-05-18
+ORD154,CUS9366,B2C,Coca-Cola,Soft Drinks,1.1,5,0.0,5.5,Baden-Württemberg,2023-05-18
+ORD154,CUS9366,B2C,Apollinaris,Water,0.99,4,0.0,3.96,Baden-Württemberg,2023-05-18
+ORD155,CUS196,B2C,Passion Fruit Juice,Juices,3.02,2,0.0,6.04,Sachsen,2022-05-12
+ORD155,CUS196,B2C,Tomato Juice,Juices,3.33,8,0.0,26.64,Sachsen,2022-05-12
+ORD155,CUS196,B2C,Coca-Cola,Soft Drinks,1.07,5,0.0,5.35,Sachsen,2022-05-12
+ORD155,CUS196,B2C,Mountain Dew,Soft Drinks,0.96,13,0.0,12.48,Sachsen,2022-05-12
+ORD155,CUS196,B2C,Apollinaris,Water,0.96,2,0.0,1.92,Sachsen,2022-05-12
+ORD156,CUS4387,B2B,Chardonnay,Alcoholic Beverages,7.14,18,0.05,122.09,Brandenburg,2022-04-04
+ORD157,CUS6322,B2C,Veuve Clicquot,Alcoholic Beverages,109.19,1,0.0,109.19,Sachsen-Anhalt,2022-08-12
+ORD158,CUS8831,B2C,Apollinaris,Water,0.99,8,0.0,7.92,Hessen,2023-10-05
+ORD158,CUS8831,B2C,Monster,Soft Drinks,3.31,9,0.0,29.79,Hessen,2023-10-05
+ORD158,CUS8831,B2C,Granini Apple,Juices,1.69,4,0.0,6.76,Hessen,2023-10-05
+ORD158,CUS8831,B2C,Jever,Alcoholic Beverages,1.99,2,0.0,3.98,Hessen,2023-10-05
+ORD158,CUS8831,B2C,Rauch Multivitamin,Juices,2.45,4,0.0,9.8,Hessen,2023-10-05
+ORD159,CUS8656,B2C,Warsteiner,Alcoholic Beverages,1.05,14,0.0,14.7,Hamburg,2022-07-04
+ORD159,CUS8656,B2C,Apollinaris,Water,0.96,11,0.0,10.56,Hamburg,2022-07-04
+ORD159,CUS8656,B2C,Gerolsteiner,Water,1.04,8,0.0,8.32,Hamburg,2022-07-04
+ORD159,CUS8656,B2C,Mango Juice,Juices,3.21,6,0.0,19.26,Hamburg,2022-07-04
+ORD159,CUS8656,B2C,Vittel,Water,0.64,10,0.0,6.4,Hamburg,2022-07-04
+ORD160,CUS2426,B2B,Granini Apple,Juices,2.13,87,0.1,166.78,Bremen,2022-02-09
+ORD160,CUS2426,B2B,Havana Club,Alcoholic Beverages,26.78,58,0.05,1475.58,Bremen,2022-02-09
+ORD160,CUS2426,B2B,Sprite,Soft Drinks,1.09,88,0.15,81.53,Bremen,2022-02-09
+ORD160,CUS2426,B2B,Volvic,Water,0.7,99,0.1,62.37,Bremen,2022-02-09
+ORD160,CUS2426,B2B,Beck's,Alcoholic Beverages,1.59,21,0.05,31.72,Bremen,2022-02-09
+ORD161,CUS153,B2C,Passion Fruit Juice,Juices,2.93,5,0.0,14.65,Bayern,2021-12-24
+ORD161,CUS153,B2C,Johnnie Walker,Alcoholic Beverages,35.52,5,0.0,177.6,Bayern,2021-12-24
+ORD162,CUS4330,B2B,Vittel,Water,0.73,70,0.1,45.99,Sachsen-Anhalt,2021-10-28
+ORD162,CUS4330,B2B,Cranberry Juice,Juices,2.83,89,0.05,239.28,Sachsen-Anhalt,2021-10-28
+ORD162,CUS4330,B2B,Schwip Schwap,Soft Drinks,0.97,66,0.05,60.82,Sachsen-Anhalt,2021-10-28
+ORD162,CUS4330,B2B,Evian,Water,1.02,61,0.1,56.0,Sachsen-Anhalt,2021-10-28
+ORD163,CUS8263,B2B,Passion Fruit Juice,Juices,3.63,75,0.1,245.02,Schleswig-Holstein,2021-04-12
+ORD163,CUS8263,B2B,Gerolsteiner,Water,1.6,9,0.1,12.96,Schleswig-Holstein,2021-04-12
+ORD163,CUS8263,B2B,Chardonnay,Alcoholic Beverages,16.23,37,0.1,540.46,Schleswig-Holstein,2021-04-12
+ORD163,CUS8263,B2B,Selters,Water,1.04,97,0.1,90.79,Schleswig-Holstein,2021-04-12
+ORD164,CUS9917,B2B,Schwip Schwap,Soft Drinks,1.24,15,0.05,17.67,Nordrhein-Westfalen,2021-07-05
+ORD164,CUS9917,B2B,Hohes C Orange,Juices,1.52,31,0.05,44.76,Nordrhein-Westfalen,2021-07-05
+ORD164,CUS9917,B2B,Granini Apple,Juices,1.27,45,0.1,51.44,Nordrhein-Westfalen,2021-07-05
+ORD164,CUS9917,B2B,Havana Club,Alcoholic Beverages,15.03,25,0.05,356.96,Nordrhein-Westfalen,2021-07-05
+ORD164,CUS9917,B2B,Cranberry Juice,Juices,3.36,46,0.1,139.1,Nordrhein-Westfalen,2021-07-05
+ORD165,CUS1906,B2C,Fritz-Kola,Soft Drinks,1.99,13,0.0,25.87,Rheinland-Pfalz,2021-01-25
+ORD166,CUS7064,B2B,Granini Apple,Juices,2.16,97,0.15,178.09,Baden-Württemberg,2023-03-07
+ORD167,CUS7712,B2B,Cranberry Juice,Juices,3.37,48,0.05,153.67,Niedersachsen,2021-11-14
+ORD167,CUS7712,B2B,Chardonnay,Alcoholic Beverages,4.2,15,0.05,59.85,Niedersachsen,2021-11-14
+ORD167,CUS7712,B2B,Veuve Clicquot,Alcoholic Beverages,90.6,76,0.15,5852.76,Niedersachsen,2021-11-14
+ORD168,CUS1499,B2B,Rockstar,Soft Drinks,4.05,86,0.1,313.47,Brandenburg,2021-12-22
+ORD168,CUS1499,B2B,Volvic,Water,0.61,97,0.05,56.21,Brandenburg,2021-12-22
+ORD168,CUS1499,B2B,Passion Fruit Juice,Juices,2.38,10,0.05,22.61,Brandenburg,2021-12-22
+ORD168,CUS1499,B2B,Sprite,Soft Drinks,1.19,26,0.05,29.39,Brandenburg,2021-12-22
+ORD169,CUS3079,B2C,Rotkäppchen Sekt,Alcoholic Beverages,8.54,4,0.0,34.16,Sachsen,2023-04-15
+ORD169,CUS3079,B2C,Tomato Juice,Juices,3.43,14,0.0,48.02,Sachsen,2023-04-15
+ORD169,CUS3079,B2C,Club Mate,Soft Drinks,2.26,3,0.0,6.78,Sachsen,2023-04-15
+ORD169,CUS3079,B2C,Volvic,Water,0.58,7,0.0,4.06,Sachsen,2023-04-15
