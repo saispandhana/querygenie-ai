@@ -8,7 +8,7 @@ from executor import execute_query_plan
 load_dotenv(dotenv_path=".env")
 
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
-
+print("API KEY LOADED:", bool(os.getenv("GEMINI_API_KEY")))
 df, file_name = load_first_csv()
 
 if df is None:

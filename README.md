@@ -40,29 +40,30 @@ Key Features:
 6.Intelligent Column Mapping (handles schema variations)
 
 System Architecture
-![Architecture](architecture.png)
+![Architecture](architecture-diagram.svg)
+
 
 Query Execution Flow
-![Sequence](sequence.png)
+![Sequence](sequence-diagram.svg)
+
 
 Explanation
 - The architecture diagram shows how natural language queries are processed through the LLM and executed using pandas.
 - The sequence diagram illustrates the step-by-step flow from user query to structured query plan to final answer generation.
 
-## 🔄 Step-by-Step Query Lifecycle
+Step-by-Step Query Lifecycle
 
-### 1️⃣ Input Layer – User Query
+Input Layer – User Query
 
 A business user asks a question in natural language, such as:
-*"How many people bought drinks?"*
+"How many people bought drinks?"
 
 The goal is to retrieve accurate insights without writing SQL or code.
 
----
 
-### 2️⃣ Intelligence Layer – Query Understanding (LLM)
+Intelligence Layer – Query Understanding (LLM)
 
-The QueryGenie Orchestrator forwards the query to **Google Gemini (LLM)**.
+The QueryGenie Orchestrator forwards the query to Google Gemini (LLM)**.
 
 Gemini interprets the user’s intent and converts the question into a structured JSON query plan**, defining:
 
@@ -170,7 +171,7 @@ Future Enhancements
 
 This project demonstrates how combining Generative AI with deterministic data processing can produce reliable, production-ready analytics systems—overcoming the limitations of LLM-only solutions.
 
-
+> Note: The original dataset used during development is large and is not included in this repository. A smaller sample dataset is provided for demonstration purposes.
 
 Author
 
