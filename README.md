@@ -140,8 +140,6 @@ Tech Stack
 * Prompt Engineering
 * Natural Language Processing (NLP)
 
-
-
 Setup
 
 1. Clone the repository
@@ -150,13 +148,6 @@ Setup
 3. Add API key in `.env`
 4. Run the application:
    `python app.py`
-
-
-Environment Variables
-
-Create a `.env` file:
-
-GEMINI_API_KEY=AIzaSyAstOrzMGUo-DXAV9NO6y9HpzmeNLBENy4
 
 Future Enhancements
 
